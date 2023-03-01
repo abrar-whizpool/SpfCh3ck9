@@ -13,7 +13,7 @@ SpfChecker is a python script that take domains in bulk, use python dns libary t
 
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat-square&logo=visual-studio&logoColor=white&color=5194f0)
 ![](https://img.shields.io/badge/Language-python-informational?style=flat-square&logo=python&logoColor=white&color=5194f0&bgcolor=110d17)
-![](https://img.shields.io/badge/Python_Version-3.10-informational?style=flat-square&logo=python&logoColor=white&color=5194f0&bgcolor=110d17)
+![](https://img.shields.io/badge/Python_Version-3.9-informational?style=flat-square&logo=python&logoColor=white&color=5194f0&bgcolor=110d17)
 
 ## 📚 Requirements
 
